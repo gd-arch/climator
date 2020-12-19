@@ -1,4 +1,4 @@
 # climator
 
-A simple flutter application showcasing the use of open weather api
+A simple android application showcasing the use of open weather api written in flutter
 
